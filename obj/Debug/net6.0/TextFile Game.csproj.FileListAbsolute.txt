@@ -1,0 +1,16 @@
+C:\Users\wille\source\repos\TextFile Game\obj\Debug\net6.0\TextFile Game.csproj.AssemblyReference.cache
+C:\Users\wille\source\repos\TextFile Game\obj\Debug\net6.0\TextFile Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\TextFile Game\obj\Debug\net6.0\TextFile Game.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\TextFile Game\obj\Debug\net6.0\TextFile Game.AssemblyInfo.cs
+C:\Users\wille\source\repos\TextFile Game\obj\Debug\net6.0\TextFile Game.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\TextFile Game\bin\Debug\net6.0\TextFile Game.exe
+C:\Users\wille\source\repos\TextFile Game\bin\Debug\net6.0\TextFile Game.deps.json
+C:\Users\wille\source\repos\TextFile Game\bin\Debug\net6.0\TextFile Game.runtimeconfig.json
+C:\Users\wille\source\repos\TextFile Game\bin\Debug\net6.0\TextFile Game.dll
+C:\Users\wille\source\repos\TextFile Game\bin\Debug\net6.0\TextFile Game.pdb
+C:\Users\wille\source\repos\TextFile Game\obj\Debug\net6.0\TextFile Game.dll
+C:\Users\wille\source\repos\TextFile Game\obj\Debug\net6.0\refint\TextFile Game.dll
+C:\Users\wille\source\repos\TextFile Game\obj\Debug\net6.0\TextFile Game.pdb
+C:\Users\wille\source\repos\TextFile Game\obj\Debug\net6.0\TextFile Game.genruntimeconfig.cache
+C:\Users\wille\source\repos\TextFile Game\obj\Debug\net6.0\ref\TextFile Game.dll
+C:\Users\wille\source\repos\TextFile Game\bin\Debug\net6.0\Stats.txt
