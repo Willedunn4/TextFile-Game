@@ -12,12 +12,12 @@ namespace TextFile_Game
         private List<Monster> monsters = new List<Monster>();
         private Room currentRoom;
         private List<Room> rooms = new List<Room>();
-        private ResultNode resultHead;
-        private ResultNode resultTail;
+        private DoublyNode resultHead;
+        private DoublyNode resultTail;
 
         public void LoadMonsters(string fileName)
         {
-            // Read monster stats from the provided file
+            // Read monster stats
             try
             {
                 using (StreamReader reader = new StreamReader(fileName))
@@ -68,7 +68,7 @@ namespace TextFile_Game
         public void RecordResult(string result)
         {
             // Create a new result node and add it to the doubly linked list
-            ResultNode newNode = new ResultNode(result);
+            DoublyNode newNode = new DoublyNode(result);
             if (resultHead == null)
             {
                 resultHead = newNode;
@@ -85,7 +85,7 @@ namespace TextFile_Game
         public void DisplayResults()
         {
             Console.WriteLine("\nResults:");
-            ResultNode currentNode = resultHead;
+            DoublyNode currentNode = resultHead;
             while (currentNode != null)
             {
                 Console.WriteLine(currentNode.Result);
